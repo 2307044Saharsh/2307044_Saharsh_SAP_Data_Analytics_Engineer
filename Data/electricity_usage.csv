@@ -1,0 +1,16 @@
+house_id,month,units_consumed,bill_amount
+H001,January,320,2400
+H001,February,290,2200
+H001,March,350,2600
+H002,January,450,3400
+H002,February,470,3600
+H002,March,500,3800
+H003,January,280,2100
+H003,February,300,2300
+H003,March,310,2400
+H004,January,520,3900
+H004,February,540,4100
+H004,March,560,4300
+H005,January,260,2000
+H005,February,270,2100
+H005,March,290,2200
